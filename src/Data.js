@@ -1,0 +1,48 @@
+export const moviesData=[
+
+   {id:1,
+    title:"the Last of us",
+    description:"20 ans après une pandémie transformant les humains en zombies, un homme ayant perdu sa fille à l'aube de cette pandémie ainsi qu'une orpheline ayant croisé sa route vont se lancer dans un voyage afin de rejoindre d'autres survivants.",
+    Type:'Série télévisée',
+    posterURL:'https://m.media-amazon.com/images/M/MV5BYzY0Njg1NDktZDhjZS00MjNkLTg1MWEtNWYwMjZkOTQ1ODRhXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg',
+    trailer:"https://www.youtube.com/embed/uLtkt8BonwM",
+    Rating:3},
+    { id:2,
+      title:'Mercredi',
+      description:"Suit les années d'études de Mercredi Addams,alors qu'elle tente de maîtriser ses nouvelles capacités psychiques, de déjouer et de résoudre le mystère qui a impliqué ses parents.",
+      Type:'Comédie,Fantasique',
+      posterURL:'https://m.media-amazon.com/images/M/MV5BOGE1YTk4YzAtYmFlYS00NmE1LWJmMDAtZGQzYTUzNTljMTQwXkEyXkFqcGdeQXVyNjMxMTE2Mjg@._V1_.jpg',
+      trailer:"https://www.youtube.com/embed/X7UoGHx7MDI",
+      Rating:4},
+  
+      {id:3,
+      title:"Le Parrain",
+      description:"Le patriarche vieillissant d'une dynastie de la mafia New Yorkaise passe le flambeau de son empire clandestin à son fils réticent.",
+      Type:'Policier,Drama',
+      posterURL:'https://m.media-amazon.com/images/M/MV5BYzYyYWJhZGEtZmY1YS00NGY5LTgyZjgtYmE3OWI3ZjczYTgxXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg',
+      trailer:"https://www.youtube.com/embed/sY1S34973zA", 
+      Rating:5},
+      {id:4,
+        title:"Sweet November",
+      description:"Un dirigeant accro au travail et une femme non conventionnelle acceptent une relation personnelle pour une courte période. Dans ce court moment, elle change sa vie pour lui.",
+      Type:'Romantique,Drama',
+      posterURL:'https://m.media-amazon.com/images/M/MV5BMTc4NjYzNzkzNl5BMl5BanBnXkFtZTYwNjg1ODc5._V1_.jpg',
+      trailer:"https://www.youtube.com/embed/7GClWkP2jJs",
+      Rating:5},
+      {id:5,
+        title:"The Pale Blue Eye",
+      description:"Un détective fatigué du monde est engagé pour enquêter sur le meurtre d'un cadet de West Point. Bloqué par le code du silence des cadets, il enrôle l'un des leurs pour aider à démêler l'affaire.",
+      posterURL:'https://m.media-amazon.com/images/M/MV5BNTE1OGM1ZDMtYmQxMi00YzBmLTllYzUtMzE0ODVjODEwODY5XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg',
+      trailer:"https://www.youtube.com/embed/ddbL9jvg77w",
+      Rating:2},
+      {id:6,
+      title:"Poker Face",
+      description:"Charlie a une capacité extraordinaire à déterminer quand quelqu'un ment. Elle prend la route avec sa Plymouth Barracuda et à chaque arrêt, elle rencontre de nouveaux personnages et des crimes qu'elle ne peut s'empêcher de résoudre.",
+      posterURL:'https://m.media-amazon.com/images/M/MV5BNDMyNjAxYTQtMjAyNi00NGQ5LWE0YzUtMTEzNWQ5NjYyNmFjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg',
+      trailer:"https://www.youtube.com/embed/4x2NzusLAqk",
+      Rating:1},
+   
+    ]
+
+
+
