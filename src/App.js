@@ -3,6 +3,7 @@ import {Routes,Route,Navigate} from "react-router-dom";
 import { useState } from 'react';
 import Home from './component/Home';
 import Detail from './component/Detail';
+import { moviesData } from "./Data";
 
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
   const[rating,setRating]=useState('');
   const addMovie = (newMovie) => {
     console.log(newMovie);
-    movieData.push(newMovie);
+    moviesData.push(newMovie);
   };
  
   
