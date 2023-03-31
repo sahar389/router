@@ -10,7 +10,7 @@ const Home = ({title,setTitle,rating,setRating}) => {
     
     <Filter title={title} setTitle={setTitle} />
     <Rating rating={rating} setRating={setRating}/>
-    <MovieList moviesData={moviesData} title={title} setTitle={setTitle}/>
+    <MovieList moviesData={moviesData} title={title} setTitle={setTitle} rating={rating}/>
    
 
     </>
