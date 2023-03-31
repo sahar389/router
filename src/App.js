@@ -9,7 +9,7 @@ import { moviesData } from "./Data";
 function App() {
   
   const[title,setTitle]=useState('');
-  const[rating,setRating]=useState('');
+  const[rating,setRating]=useState(0);
   const addMovie = (newMovie) => {
     console.log(newMovie);
     moviesData.push(newMovie);
